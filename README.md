@@ -1,2 +1,3 @@
 # HelloWorld
-just another repository
+
+Hi everybody! I am a student.I like football games.
